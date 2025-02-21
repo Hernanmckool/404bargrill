@@ -58,6 +58,7 @@ main .YouTube-container {
   box-shadow: 0 0 4px 0 rgba(0,0,0,.08), 0 2px 4px 0 rgba(0,0,0,.12);
   padding: 15px;
   padding-bottom: 0 !important;
+  background-color: #d5e9d5;
 }
 
 main iframe {
@@ -125,4 +126,8 @@ main .video-player .description {
 
 .video:hover {
   background: #f4f4f4
+}
+
+.repet-bar {
+  background-image: url("../images/404bar2.jpg");
 }
